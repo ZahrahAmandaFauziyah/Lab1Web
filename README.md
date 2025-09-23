@@ -1,3 +1,8 @@
+Nama : Zahrah Amanda Fauziyah
+Kelas : TI.24.A.2
+NIM : 312410193
+Mata Kuliah : Pemrograman Web 1
+    
     # Praktikum 1
     Jawab Pertanyaan Berikut
     1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah _error_ ketika terjadi kesalahan penulis tag?
